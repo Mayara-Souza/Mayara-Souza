@@ -1,4 +1,10 @@
 ## Hii, I'm Mayara, a Frontend lover!
+<div align="center">
+  <a href="https://github.com/Mayara-Souza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayara-Souza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayara-Souza&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 <div style="display: inline_block"><br>
 <img align="center" alt="Mayara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mayara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -12,3 +18,5 @@
   ![Snake animation](https://github.com/Mayara-Souza/Mayara-Souza/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+
