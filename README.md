@@ -1,5 +1,5 @@
 ## Hii, I'm Mayara, a Frontend lover!
-<div style="display: inline_block;">
+<div style="display: inline_block;"><br>
   <a href="https://github.com/Mayara-Souza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayara-Souza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayara-Souza&layout=compact&langs_count=7&theme=dracula"/>
