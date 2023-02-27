@@ -34,7 +34,7 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&logoColor=fff&labelColor=F75C03&color=F75C03)&nbsp;
   
 ### Studying in this moment:
-![Vue.js](https://img.shields.io/badge/-vue.js-0D1117?style=for-the-badge&logo=vue.js&logoColor=fff&labelColor=0CCE6B&color=0CCE6B)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-0D1117?style=for-the-badge&logo=tailwindCSS&logoColor=fff&labelColor=008DD5&color=008DD5)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=fff&labelColor=DCED31&color=DCED31)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ccc&height=120&section=footer"/>
