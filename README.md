@@ -34,8 +34,8 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&logoColor=fff&labelColor=F75C03&color=F75C03)&nbsp;
   
 ### Studying in this moment:
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-0D1117?style=for-the-badge&logo=tailwindCSS&logoColor=fff&labelColor=008DD5&color=008DD5)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=fff&labelColor=DCED31&color=DCED31)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&logoColor=fff&labelColor=008DD5&color=008DD5)&nbsp;
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React&logoColor=fff&labelColor=DCED31&color=DCED31)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ccc&height=120&section=footer"/>
 
